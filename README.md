@@ -74,7 +74,7 @@ The business findings and model performance shown in the report are based on the
 2. Install the required Python packages:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 3. Generate the synthetic sample data and output files:
