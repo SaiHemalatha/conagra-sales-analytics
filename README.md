@@ -86,7 +86,7 @@ python scripts/generate_synthetic_data.py
 4. Open the Jupyter notebook:
 
 ```text
-notebooks/Final_code.ipynb
+notebooks/conagra_sales_analysis.ipynb
 ```
 
 5. Review generated output files:
